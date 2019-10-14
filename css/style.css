@@ -1,0 +1,17 @@
+body,
+html {
+    margin : 0;
+    padding: 0;
+}
+
+.myvideo {
+    background-color: #666;
+    padding         : 10px;
+    text-align      : center;
+    height          : 100vh;
+}
+
+button {
+    padding: 5px;
+    cursor : pointer;
+}
